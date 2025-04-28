@@ -1,19 +1,19 @@
 # Portfolio V1
 
-## Présentation
+## Overview
 
-Ce projet est un premier portfolio, trouvable à l'adresse [`https://pifpafdeluxe.fr/`](https://pifpafdeluxe.fr/).
+This project is my first portfolio, available at [`https://pifpafdeluxe.fr/`](https://pifpafdeluxe.fr/).
 
-Son rôle est de rediriger vers d'autres sites web que j'ai faits, ils sont donc trouvables ici. \
-On notera qu'ils n'ont pas tous un repository dédié sur GitHub car je considère que certains d'entre eux n'en valent pas la peine.
+Its purpose is to redirect visitors to other websites I have created, which can be found listed here. \
+Note that not all of them have a dedicated GitHub repository, as I believe some do not warrant one.
 
-Il utilise React + Vite pour son fonctionnement et peut donc être lancé localement avec :
-```
+It is built with React and Vite, and can be run locally with:
+```bash
 npm install
 npm run dev
 ```
 
-## Exemple
+## Example
 
-> ![example](examples/example.png) \
-> *Page principale*
+> ![example](examples/example.png)  
+> *Main page*
